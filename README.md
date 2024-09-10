@@ -25,9 +25,12 @@ This Tableau project analyzes Frontier Airlines data, focusing on key performanc
 
 ## Screenshots
 
-*Add screenshots of your Tableau dashboards if desired.*
 
-![Airline Performance Dashboard](link_to_screenshot)
+![Airline Performance Dashboard](https://github.com/mayunbodele/Frontier-Airline-Data-Analysis/blob/main/AA%20Max%20flights.png)
+![Airline Performance Dashboard]()
+![Airline Performance Dashboard]()
+![Airline Performance Dashboard]()
+
 
 ## How to Access the Tableau File
 
