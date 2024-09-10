@@ -28,7 +28,7 @@ This Tableau project analyzes Frontier Airlines data, focusing on key performanc
 
 ![Airline Performance Dashboard](https://github.com/mayunbodele/Frontier-Airline-Data-Analysis/blob/main/AA%20Max%20flights.png)
 ![Airline Performance Dashboard](https://github.com/mayunbodele/Frontier-Airline-Data-Analysis/blob/main/distribution%20AA.png)
-![Airline Performance Dashboard]()
+![Airline Performance Dashboard](https://github.com/mayunbodele/Frontier-Airline-Data-Analysis/blob/main/total%20flights.png)
 ![Airline Performance Dashboard]()
 
 
